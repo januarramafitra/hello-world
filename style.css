@@ -1,0 +1,10 @@
+.makan {
+    background: #004d40;
+}
+.makan .makan__li {
+    background: #00449E;
+}
+.container {
+    position: static;
+    border: 1px solid red;
+}
